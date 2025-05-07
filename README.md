@@ -1,4 +1,4 @@
-# demo-java_maven-webapp
+# Deploy java_maven-webapp with Docker
 
 [![Build Status](https://github.com/adibakhtab007/Docker_deployment/actions/workflows/build.yml/badge.svg)](https://github.com/adibakhtab007/Docker_deployment/actions)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
