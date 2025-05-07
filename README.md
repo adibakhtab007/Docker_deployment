@@ -1,4 +1,4 @@
-# Deploy java_maven-webapp with Docker
+# Deploy java-webapp with Docker
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 [![Tomcat](https://img.shields.io/badge/tomcat-8.5.100-orange)](https://tomcat.apache.org/)
