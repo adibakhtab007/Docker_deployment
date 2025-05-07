@@ -67,8 +67,8 @@ docker run -d -p 2222:8080 \
 
 ### 🔐 Tomcat Manager
 
-Username: admin
-Password: 1234
+Username: admin  
+Password: 1234  
 
 ### Access:
 - http://localhost:1111/manager/html
