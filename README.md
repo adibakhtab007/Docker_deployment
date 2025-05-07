@@ -1,7 +1,6 @@
 # demo-java_maven-webapp
 
-![Docker Image Version](https://img.shields.io/badge/docker--image-2025.05.06.1.0.0-blue)
-[![Build Status](https://github.com/your-github-username/demo-java_maven-webapp/actions/workflows/build.yml/badge.svg)](https://github.com/adibakhtab007/demo-java_maven-webapp/actions)
+[![Build Status](https://github.com/adibakhtab007/Docker_deployment/actions/workflows/build.yml/badge.svg)](https://github.com/adibakhtab007/Docker_deployment/actions)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 [![Tomcat](https://img.shields.io/badge/tomcat-8.5.100-orange)](https://tomcat.apache.org/)
 [![Java](https://img.shields.io/badge/java-21-blueviolet)](https://openjdk.org/)
