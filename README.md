@@ -1,6 +1,7 @@
 # Deploy java_maven-webapp with Docker
 
-![Build Status](https://github.com/adibakhtab007/Docker_deployment/actions/workflows/build.yml/badge.svg)
+![Docker Image Version](https://img.shields.io/badge/docker--image-2025.05.06.1.0.0-blue)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 [![Tomcat](https://img.shields.io/badge/tomcat-8.5.100-orange)](https://tomcat.apache.org/)
 [![Java](https://img.shields.io/badge/java-21-blueviolet)](https://openjdk.org/)
