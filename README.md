@@ -14,6 +14,7 @@
 
 ```bash
 demo-java_maven-webapp/
+├── .github/workflows/build.yml
 ├── Dockerfile
 ├── pom.xml
 └── src/
@@ -89,10 +90,6 @@ demo-java_maven-tomcat-8.5.100:2025.05.06.1.0.0
 
 ### 📄 License
 This project is licensed under the MIT License. See LICENSE for details.
-
-vbnet
-Copy
-Edit
 
 ---
 
