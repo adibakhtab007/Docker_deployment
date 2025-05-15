@@ -14,6 +14,7 @@
 
 | Script | Description | Key Tools | License |
 |--------|-------------|-----------|---------|
+| [Build_Custom_Tomcat](./Build_Custom_Tomcat) | Build Custom Tomcat with Docker | `tomcat`, `tar.gz`, `curl`, `sed`, `docker build`, `docker run` | MIT |
 | [JAVA-Maven Docker Deployment - V.1](<./Java_WebApp_Deployment -- Maven + Docker + Tomcat (V-1)>) | Deploy JAVA (Maven) project with Docker | `mvn`, `tomcat`, `tar.gz`, `curl`, `sed`, `docker build`, `docker run` | MIT |
 | [JAVA-Maven Docker Deployment - V.2](<./Java_WebApp_Deployment -- Maven + Docker + Tomcat (V-2)>) | Deploy JAVA (Maven) project with Docker | `mvn`, `tomcat`, `tar.gz`, `curl`, `sed`, `docker build`, `docker run` | MIT |
 

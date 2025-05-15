@@ -50,7 +50,7 @@ LOG_PATH=/var/log/tomcat_8-5-100_log
 
 ```bash
 
-git clone <your-repo-url>
+git clone https://github.com/adibakhtab007/Docker_deployment.git
 cd Build_Custom_Tomcat
 ```
  2. Ensure .env values are set correctly.
