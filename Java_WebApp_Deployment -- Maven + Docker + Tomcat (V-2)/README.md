@@ -63,8 +63,8 @@ This repository demonstrates an automated build-and-deploy pipeline for a Java s
 
 1. Clone and Enter Project
 ```
-git clone https://github.com/<your-org>/demo-maven-tomcat-project.git
-cd demo-maven-tomcat-project
+git clone https://github.com/adibakhtab007/Docker_deployment.git
+cd Java_WebApp_Deployment\ --\ Maven\ +\ Docker\ +\ Tomcat\ \(V-2\)
 ```
 2. Run the Script
 ```
