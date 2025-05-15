@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  tomcat_app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ${TOMCAT_IMAGE}:${TOMCAT_TAG}
+    container_name: ${CONTAINER_NAME}
+    ports:
+      - "${HOST_PORT}:8080"
+    volumes:
+      - ${LOG_PATH}:/usr/share/tomcat-8.5.100-8080/logs
+    restart: unless-stopped

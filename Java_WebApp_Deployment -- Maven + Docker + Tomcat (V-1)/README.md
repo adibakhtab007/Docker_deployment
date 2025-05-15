@@ -14,7 +14,7 @@
 ### 📂 Project Structure
 
 ```bash
-demo-java_maven-webapp/
+Java_WebApp_Deployment -- Maven + Docker + Tomcat (V-1)/
 ├── .github/workflows/build.yml
 ├── Dockerfile
 ├── pom.xml
@@ -62,8 +62,8 @@ docker run -d -p 2222:8080 \
 
 ### 🌐 Access
 
-- http://localhost:1111/application/
-- http://localhost:2222/application/
+- http://HOST-IP:1111/application/
+- http://HOST-IP:2222/application/
 
 ### 🔐 Tomcat Manager
 
@@ -71,8 +71,8 @@ Username: admin
 Password: 1234  
 
 ### Access:
-- http://localhost:1111/manager/html
-- http://localhost:2222/manager/html
+- http://HOST-IP:1111/manager/html
+- http://HOST-IP:2222/manager/html
 
 ### 📦 Version Format
 

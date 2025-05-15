@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+
+  # === Build Application WAR ===
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        BUILD_TAG: ${BUILD_TAG}
+    image: ${APP_IMAGE}:${BUILD_TAG}
+    container_name: build_app_container
+    volumes:
+      - ${WAR_OUTPUT}:/app/target
