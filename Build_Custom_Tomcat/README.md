@@ -7,9 +7,9 @@ A lightweight, customizable Apache Tomcat 8.5.100 Docker image built from scratc
 ### 🧱 Project Structure
 ```
 Build_Custom_Tomcat/
-├── Dockerfile 				# Custom Dockerfile to build Tomcat from source
-├── docker-compose.yaml		# Compose file to manage container lifecycle
-└── .env 					# Environment variables for configuration
+├── Dockerfile           # Custom Dockerfile to build Tomcat from source
+├── docker-compose.yaml  # Compose file to manage container lifecycle
+└── .env                 # Environment variables for configuration
 ```
 
 ---
@@ -63,7 +63,7 @@ docker-compose up -d --build
 ```
  3. Access Tomcat:
 
-```arduino
+```bash
 
 http://localhost:1111
 ```
