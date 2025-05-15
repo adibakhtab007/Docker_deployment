@@ -4,6 +4,7 @@
 [![Tomcat](https://img.shields.io/badge/tomcat-8.5.100-orange)](https://tomcat.apache.org/)
 [![Java](https://img.shields.io/badge/java-21-blueviolet)](https://openjdk.org/)
 [![Maven](https://img.shields.io/badge/maven-3.9.6-critical)](https://maven.apache.org/)
+![Bash](https://img.shields.io/badge/shell-bash-1f425f.svg)
 
 > A Maven-based Java web application deployed to a custom Dockerized Tomcat environment with versioned WARs, isolated logging, and container redundancy.
 
