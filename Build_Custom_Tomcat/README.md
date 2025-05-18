@@ -28,7 +28,7 @@ Build_Custom_Tomcat/
 
 ### ⚙️ Configuration (env_sample)
 
-Customize your build and runtime parameters through `.env`:
+Customize your build and runtime parameters through `env_sample`:
 
 ```ini
 # Image details
