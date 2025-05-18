@@ -83,13 +83,13 @@ http://HOST-IP:1111/application/hello
 
 ### ⚙️ Configuration Overview
 
-app/.env
+app/env_sample
 ```
 APP_IMAGE=demo_java_hello_app
 BUILD_TAG=dynamic_version
 WAR_OUTPUT=./war_output
 ```
-tomcat/.env
+tomcat/env_sample
 ```
 TOMCAT_IMAGE=psl_tomcat-8.5.100
 TOMCAT_TAG=2025.05.08.1.0.0
@@ -124,7 +124,7 @@ docker-compose down
 _**Adib Akhtab Faruquee**_  
 _**Systems, Network & Security**_  
 _📅 Created: May 2025_  
-_in/adib-akhtab-faruquee_
+_LinkedIn:in/adib-akhtab-faruquee_
 
 ### 📝 License
 
