@@ -75,7 +75,7 @@ This will build the WAR, deploy it to Tomcat, and start the container.
 
 3. Access the App
 ```
-# Replace with your port from tomcat/.env
+# Replace with your port from tomcat/env_sample
 http://HOST-IP:1111/application
 http://HOST-IP:1111/application/hello
 ```
